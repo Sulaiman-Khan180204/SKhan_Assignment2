@@ -1,4 +1,4 @@
-# CHT2520 Assignment 1 U2286550 Sulaiman Khan
+# CHT2520 Assignment 2 U2286550 Sulaiman Khan
 
 ## Introduction 
 
